@@ -2,6 +2,8 @@
 
 A 3D scene built with Three.js featuring a Japanese temple and dynamic environment.
 
+![Preview](assets/images/preview.png)
+
 ## Features
 
 - Japanese temple & 3D scene
